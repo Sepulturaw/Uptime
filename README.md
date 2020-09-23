@@ -1,1 +1,1 @@
-# Uptime
+Arkadaşlar Botu Çaldım Sizde Çalın İstedim Sonuçta Hepimiz Kardeşiz Şaka Lan Ne Kardeş olucaz neyse iyi bir sanatçı esinlenmez çalar botu sadece ingilizceleştirdim public bir dil olduğundan ve haWli gözüktüğünden yapmanız gereken tokeninizi girip botunuzu herokuya aktarmanız https://www.heroku.com
